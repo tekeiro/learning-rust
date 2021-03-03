@@ -1,0 +1,9 @@
+#Binaries
+*.exe
+
+# Idea files
+*.iml
+.idea
+
+**/target
+**/target/**
